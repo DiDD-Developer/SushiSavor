@@ -1,8 +1,0 @@
-1. contacts.html (Контакты) 1
-2. shopping_cart.html (Корзина)
-3. personal_account.html (Личный кабинет) 1
-4. category_page.html (Страница категории) 1
-
-
-
-Ссылка на макеты фигма: https://www.figma.com/file/M2JtyBacglUI4r100x82hC/Сайт-SushiSavor?type=design&node-id=0-1&mode=design&t=k9khiZb8KHpNNOFc-0
